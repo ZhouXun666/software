@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/c8b0782f-0e02-4aa4-be51-83972daef578/console.sql" value="c8b0782f-0e02-4aa4-be51-83972daef578" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/school/secondhand/trade/repository/TradeRepository.java" value="c8b0782f-0e02-4aa4-be51-83972daef578" />
+  </component>
+</project>
